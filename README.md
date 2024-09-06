@@ -378,14 +378,4 @@ Critérios de aceite:
 
 ---
 
-
-## Aulas úteis:
-
--   [Git e fluxo de trabalho em equipe](https://aulas.cubos.academy/turma/73903d2c-8b7c-47d3-82dd-c4adc00a61f9/aulas/d0e2ddf7-825d-4f57-9711-c724d89907d6)
--   [Envio de e-mails](https://aulas.cubos.academy/turma/73903d2c-8b7c-47d3-82dd-c4adc00a61f9/aulas/a79dfe9d-1310-451e-9b3d-24abb227ae51)
--   [Validações e boas práticas](https://aulas.cubos.academy/turma/73903d2c-8b7c-47d3-82dd-c4adc00a61f9/aulas/87ad0871-c643-41da-b286-1fccc266d8dc)
--   [Deploy](https://aulas.cubos.academy/turma/8e525417-a33a-46f6-9476-9fcdfe375f99/aulas/36da6c7a-cd72-4519-8d18-54b9e873be1f)
--   [Revisão de deploy](https://aulas.cubos.academy/turma/73903d2c-8b7c-47d3-82dd-c4adc00a61f9/aulas/8bc52018-acc3-4469-9b69-e4810e56dda3)
--   [Upload de arquivos](https://aulas.cubos.academy/turma/73903d2c-8b7c-47d3-82dd-c4adc00a61f9/aulas/51cf4150-b269-4d78-aaa8-9394a30eaae6)
-
 ###### tags: `back-end` `módulo 5` `nodeJS` `PostgreSQL` `API REST` `desafio`
